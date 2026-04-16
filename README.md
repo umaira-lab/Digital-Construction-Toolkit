@@ -1,2 +1,3 @@
-# Digital-Construction-Toolkit
-This repository hosts a specialized suite of Python tools developed to bridge the gap between Digital Construction and Data Science. The primary objective is to solve the "Information Decay" problem that occurs during multidisciplinary model handovers, ensuring the Golden Thread of information remains intact across the building lifecycle.
+# IMI CODE – COBie Data Quality Assessment Tool
+Evaluates COBie facility management data against ISO19650 & NIMA UK standards across completeness, accuracy, readiness, and usefulness.
+Generates detailed reports, visual dashboards, and actionable improvement plans to determine handover acceptability.
